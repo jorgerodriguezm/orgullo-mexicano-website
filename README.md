@@ -10,7 +10,7 @@ Página web administrable desarrollada con Wordpress para restaurantes mexicanos
 # Características
 * 6 Páginas
 * Optimización de imágenes
-* Corrección de Estilo para una mejor lectura
+* Corrección de estilo para una mejor lectura
 * Posicionamiento en buscadores (SEO)
 * Implementación de Google Analytics
 * Integración de Google Maps
